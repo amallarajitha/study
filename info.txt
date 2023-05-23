@@ -1,3 +1,2 @@
 git is best
 git is advance tool.
-git is modern tool.
